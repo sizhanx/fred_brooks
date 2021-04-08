@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.841dfd71.chunk.css",
-    "main.js": "/static/js/main.a8004b3c.chunk.js",
-    "main.js.map": "/static/js/main.a8004b3c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8a80f286.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8a80f286.js.map",
-    "static/js/2.2e44fed2.chunk.js": "/static/js/2.2e44fed2.chunk.js",
-    "static/js/2.2e44fed2.chunk.js.map": "/static/js/2.2e44fed2.chunk.js.map",
-    "static/js/3.8f9db523.chunk.js": "/static/js/3.8f9db523.chunk.js",
-    "static/js/3.8f9db523.chunk.js.map": "/static/js/3.8f9db523.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.841dfd71.chunk.css.map": "/static/css/main.841dfd71.chunk.css.map",
-    "static/js/2.2e44fed2.chunk.js.LICENSE.txt": "/static/js/2.2e44fed2.chunk.js.LICENSE.txt"
+    "main.css": "/fred_brooks/static/css/main.841dfd71.chunk.css",
+    "main.js": "/fred_brooks/static/js/main.a8004b3c.chunk.js",
+    "main.js.map": "/fred_brooks/static/js/main.a8004b3c.chunk.js.map",
+    "runtime-main.js": "/fred_brooks/static/js/runtime-main.e3f71735.js",
+    "runtime-main.js.map": "/fred_brooks/static/js/runtime-main.e3f71735.js.map",
+    "static/js/2.2e44fed2.chunk.js": "/fred_brooks/static/js/2.2e44fed2.chunk.js",
+    "static/js/2.2e44fed2.chunk.js.map": "/fred_brooks/static/js/2.2e44fed2.chunk.js.map",
+    "static/js/3.8f9db523.chunk.js": "/fred_brooks/static/js/3.8f9db523.chunk.js",
+    "static/js/3.8f9db523.chunk.js.map": "/fred_brooks/static/js/3.8f9db523.chunk.js.map",
+    "index.html": "/fred_brooks/index.html",
+    "static/css/main.841dfd71.chunk.css.map": "/fred_brooks/static/css/main.841dfd71.chunk.css.map",
+    "static/js/2.2e44fed2.chunk.js.LICENSE.txt": "/fred_brooks/static/js/2.2e44fed2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a80f286.js",
+    "static/js/runtime-main.e3f71735.js",
     "static/js/2.2e44fed2.chunk.js",
     "static/css/main.841dfd71.chunk.css",
     "static/js/main.a8004b3c.chunk.js"
